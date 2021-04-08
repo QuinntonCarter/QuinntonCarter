@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @QuinntonCarter, this is my new main Github account after being locked out of my previous one.
+- I'm a FullStack web developer based in Salt Lake City, UT, my stack being MERN.
