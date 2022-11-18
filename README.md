@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @QuinntonCarter, this is my new main Github account after being locked out of my previous one, you can find my work up to that point at https://github.com/QuinntonCarter92.
-- I'm a FullStack web developer based in Salt Lake City, UT, my stack being MERN.
+- I'm a FullStack web developer based in Salt Lake City, UT. I have experience working with HTML, CSS, Mongoose, Express, MongoDB, Javascript, ReactJS, NextJS, and WordPress.
