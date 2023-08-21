@@ -1,2 +1,2 @@
-- 👋 Hi, I’m [@QuinntonCarter](https://www.linkedin.com/in/quinntoncarter) a FullStack web developer based in Salt Lake City, UT. I have experience working with HTML, CSS, Mongoose, Express, MongoDB, Javascript, ReactJS, NextJS, and WordPress.
+- 👋 Hi, I’m [@QuinntonCarter](https://qcarter.dev) a [FullStack web developer](https://www.linkedin.com/in/quinntoncarter) based in Salt Lake City, UT. I have experience working with HTML, CSS, Mongoose, Express, MongoDB, Javascript, ReactJS, NextJS, and WordPress.
 - This account is a continuation of my work after being locked out of my previous account https://github.com/QuinntonCarter92
